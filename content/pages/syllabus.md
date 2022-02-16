@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 4e8460c6-56a4-0ed2-c62a-72fd9ec27f43
 ---
@@ -12,7 +14,7 @@ Lecture/Discussion: 2 sessions / week, 1.5 hours / session
 Description
 -----------
 
-This course adopts a global perspective in surveying the great transformation in history known as the "Industrial Revolution." Briefly defined, the Industrial Revolution represented a new way of organizing work and making things. The British commentator, Sir Thomas Carlyle, appropriately called it "a mechanical age" because the invention and use of self-acting machinery became one of its most striking characteristics. It was a time when hand tools and craft methods began to give way to water and steam-powered factories, canals, steamboats, and railroads. It also witnessed a "communications revolution" (led by high speed printing presses and telegraphy) that touched the lives not only of industrial workers but entire populations. This class seeks to place these themes in a broad global perspective by examining various outcroppings of industrialization in Great Britain, France, the United States, Germany, Scandinavia, Russia, Japan, China, India, and South America from the mid-18th century to the mid-20th century. Among other things, we will examine contrasting processes of invention and technological development, the role of the private entrepreneur as well as the state in these developments, and how the deployment of the new mechanical technologies of the Industrial Revolution impacted working people around the globe.
+This course adopts a global perspective in surveying the great transformation in history known as the "Industrial Revolution." Briefly defined, the Industrial Revolution represented a new way of organizing work and making things. The British commentator, Sir Thomas Carlyle, appropriately called it "a mechanical age" because the invention and use of self-acting machinery became one of its most striking characteristics. It was a time when hand tools and craft methods began to give way to water and steam-powered factories, canals, steamboats, and railroads. It also witnessed a "communications revolution" (led by high speed printing presses and telegraphy) that touched the lives not only of industrial workers but entire populations. This class seeks to place these themes in a broad global perspective by examining various outcroppings of industrialization in Great Britain, France, the United States, Germany, Scandinavia, Russia, Japan, China, India, and South America from the mid-18{{< sup "th" >}} century to the mid-20{{< sup "th" >}} century. Among other things, we will examine contrasting processes of invention and technological development, the role of the private entrepreneur as well as the state in these developments, and how the deployment of the new mechanical technologies of the Industrial Revolution impacted working people around the globe.
 
 Textbooks and Readings
 ----------------------
