@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section provides guidelines for preparing a critical book preview.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 100bed99-21f6-30ae-80b7-14623a4b6dcf
 title: Some Guidelines for Preparing a Critical Book Review
 uid: e7dc6ec6-e6b2-3283-e022-62ca93801c45

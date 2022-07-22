@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the weekly reading reflections,
+  book review, and final reflection paper assigned for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 100bed99-21f6-30ae-80b7-14623a4b6dcf
 ---
@@ -16,7 +21,7 @@ Students will select a book from the list of "related readings" provided for mos
 
 The review paper should be an example of your best work. It should be 4 to 6 pages long, double-spaced. Carefully proofread and correct your paper before turning it in.
 
-[Some guidelines for preparing a critical book review]({{< baseurl >}}/pages/assignments/book-review-guide)
+{{% resource_link e7dc6ec6-e6b2-3283-e022-62ca93801c45 "Some guidelines for preparing a critical book review" %}}
 
 Final Reflection Paper
 ----------------------

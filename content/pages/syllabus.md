@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, textbooks and readings, writing assignments, grading, and the
+  schedule of lecture topics and assignment due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 4e8460c6-56a4-0ed2-c62a-72fd9ec27f43
 ---
@@ -12,7 +17,7 @@ Lecture/Discussion: 2 sessions / week, 1.5 hours / session
 Description
 -----------
 
-This course adopts a global perspective in surveying the great transformation in history known as the "Industrial Revolution." Briefly defined, the Industrial Revolution represented a new way of organizing work and making things. The British commentator, Sir Thomas Carlyle, appropriately called it "a mechanical age" because the invention and use of self-acting machinery became one of its most striking characteristics. It was a time when hand tools and craft methods began to give way to water and steam-powered factories, canals, steamboats, and railroads. It also witnessed a "communications revolution" (led by high speed printing presses and telegraphy) that touched the lives not only of industrial workers but entire populations. This class seeks to place these themes in a broad global perspective by examining various outcroppings of industrialization in Great Britain, France, the United States, Germany, Scandinavia, Russia, Japan, China, India, and South America from the mid-18th century to the mid-20th century. Among other things, we will examine contrasting processes of invention and technological development, the role of the private entrepreneur as well as the state in these developments, and how the deployment of the new mechanical technologies of the Industrial Revolution impacted working people around the globe.
+This course adopts a global perspective in surveying the great transformation in history known as the "Industrial Revolution." Briefly defined, the Industrial Revolution represented a new way of organizing work and making things. The British commentator, Sir Thomas Carlyle, appropriately called it "a mechanical age" because the invention and use of self-acting machinery became one of its most striking characteristics. It was a time when hand tools and craft methods began to give way to water and steam-powered factories, canals, steamboats, and railroads. It also witnessed a "communications revolution" (led by high speed printing presses and telegraphy) that touched the lives not only of industrial workers but entire populations. This class seeks to place these themes in a broad global perspective by examining various outcroppings of industrialization in Great Britain, France, the United States, Germany, Scandinavia, Russia, Japan, China, India, and South America from the mid-18{{< sup "th" >}} century to the mid-20{{< sup "th" >}} century. Among other things, we will examine contrasting processes of invention and technological development, the role of the private entrepreneur as well as the state in these developments, and how the deployment of the new mechanical technologies of the Industrial Revolution impacted working people around the globe.
 
 Textbooks and Readings
 ----------------------
@@ -23,7 +28,7 @@ Weber, Max. _The Protestant Ethic and the Spirit of Capitalism_. Original German
 
 Rostow, Walt W. _The Stages of Economic Growth_. Original publication 1960. 3rd ed. New York, NY: Cambridge University Press, 1991. ISBN: 9780521409285. \[Preview in [Google Books](http://books.google.com/books?id=XzJdpd8DbYEC&printsec=frontcover&source=gbs_atb#v=onepage&q&f=false)\]
 
-Selections from these books are supplemented by additional [readings]({{< baseurl >}}/pages/readings) for many class sessions.
+Selections from these books are supplemented by additional {{% resource_link f634d6d0-bd3a-d0b7-5712-94472afd4638 "readings" %}} for many class sessions.
 
 Writing Assignments
 -------------------
@@ -34,7 +39,7 @@ Students will complete three types of writing assignments during the term.
 *   A formal book review plus a brief in-class presentation of the review
 *   A longer final reflection paper
 
-See the [assignments]({{< baseurl >}}/pages/assignments) page for more details.
+See the {{% resource_link 100bed99-21f6-30ae-80b7-14623a4b6dcf "assignments" %}} page for more details.
 
 Grading
 -------
