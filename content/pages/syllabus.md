@@ -22,11 +22,11 @@ This course adopts a global perspective in surveying the great transformation in
 Textbooks and Readings
 ----------------------
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262515627) Horn, Jeff, Leonard N. Rosenband, and Merritt Roe Smith, eds. [_Reconceptualizing the Industrial Revolution_](https://mitpress.mit.edu/9780262515627). Cambridge MA: MIT Press, 2010. ISBN: 9780262515627.
+{{% resource_link "73ec857d-335f-4a2e-8926-66554ff0dc0d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Horn, Jeff, Leonard N. Rosenband, and Merritt Roe Smith, eds. {{% resource_link "73ec857d-335f-4a2e-8926-66554ff0dc0d" "_Reconceptualizing the Industrial Revolution_" %}}. Cambridge MA: MIT Press, 2010. ISBN: 9780262515627.
 
-Weber, Max. _The Protestant Ethic and the Spirit of Capitalism_. Original German publication 1904; English translation by Talcott Parsons first published in 1930. New York, NY: Routledge, 2001. ISBN: 9780415254069. \[Download a public domain copy in various formats from the [Internet Archive](http://www.archive.org/details/protestantethics00webe)\]
+Weber, Max. _The Protestant Ethic and the Spirit of Capitalism_. Original German publication 1904; English translation by Talcott Parsons first published in 1930. New York, NY: Routledge, 2001. ISBN: 9780415254069. \[Download a public domain copy in various formats from the {{% resource_link "b0342b14-4451-4590-9d20-dce90112e2b1" "Internet Archive" %}}\]
 
-Rostow, Walt W. _The Stages of Economic Growth_. Original publication 1960. 3rd ed. New York, NY: Cambridge University Press, 1991. ISBN: 9780521409285. \[Preview in [Google Books](http://books.google.com/books?id=XzJdpd8DbYEC&printsec=frontcover&source=gbs_atb#v=onepage&q&f=false)\]
+Rostow, Walt W. _The Stages of Economic Growth_. Original publication 1960. 3rd ed. New York, NY: Cambridge University Press, 1991. ISBN: 9780521409285. \[Preview in {{% resource_link "71dd3de0-0209-4bd1-8e2f-ffc5d082e11e" "Google Books" %}}\]
 
 Selections from these books are supplemented by additional {{% resource_link f634d6d0-bd3a-d0b7-5712-94472afd4638 "readings" %}} for many class sessions.
 
