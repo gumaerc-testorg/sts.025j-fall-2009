@@ -13,7 +13,7 @@ This page lists the **required** and **recommended** readings for each class ses
 
 Key:
 
-\[Horn\] = {{% resource_link "73ec857d-335f-4a2e-8926-66554ff0dc0d" "![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)" %}} Horn, Jeff., Leonard N. Rosenband, and Merritt Roe Smith, eds. *Reconceptualizing the Industrial Revolution*. Cambridge MA: MIT Press, 2010. ISBN: 9780262515627.
+\[Horn\] = [![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)](https://mitpress.mit.edu/9780262515627) Horn, Jeff., Leonard N. Rosenband, and Merritt Roe Smith, eds. *Reconceptualizing the Industrial Revolution*. Cambridge MA: MIT Press, 2010. ISBN: 9780262515627.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -35,7 +35,7 @@ The Cultural Background of the Industrial Revolution in Western Europe
 
 *Required*
 
-Weber, Max. *The Protestant Ethic and the Spirit of Capitalism*. Original German publication 1904; English translation by Talcott Parsons first published in 1930. New York, NY: Routledge, 2001. ISBN: 9780415254069. \[Download a public domain copy in various formats from the {{% resource_link "b0342b14-4451-4590-9d20-dce90112e2b1" "Internet Archive" %}}\]
+Weber, Max. *The Protestant Ethic and the Spirit of Capitalism*. Original German publication 1904; English translation by Talcott Parsons first published in 1930. New York, NY: Routledge, 2001. ISBN: 9780415254069. \[Download a public domain copy in various formats from the [Internet Archive](http://www.archive.org/details/protestantethics00webe)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -139,7 +139,7 @@ Alder, Ken. "Innovation and Amnesia: Engineering Rationality and the Fate of Int
 
 *Recommended*
 
-{{% resource_link "c9f49e4f-ba9f-4474-a124-dfed069b446d" "![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)" %}} Horn, Jeff. *The Path Not Taken: French Industrialization in the Age of Revolution, 1750-1830*. Cambridge, MA: The MIT Press, 2006. ISBN: 9780262083522.
+[![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)](https://mitpress.mit.edu/9780262083522) Horn, Jeff. *The Path Not Taken: French Industrialization in the Age of Revolution, 1750-1830*. Cambridge, MA: The MIT Press, 2006. ISBN: 9780262083522.
 
 Alder, Ken. *Engineering the Revolution: Arms and Enlightenment in France, 1763-1815*. Princeton, NJ: Princeton University Press, 1997. ISBN: 9780691026718. (Adler's essay, "Innovation and Amnesia," provides an overview of his book)
 
@@ -157,7 +157,7 @@ The American experience
 
 Smith, M. R., and R. Martello. "Taking Stock of the Industrial Revolution in America." \[Horn\], pp. 168-200.
 
-Rostow, Walt W. *The Stages of Economic Growth*. 3rd ed. Cambridge, UK: Cambridge University Press, 1991. ISBN: 9780521400701. \[Preview in {{% resource_link "71dd3de0-0209-4bd1-8e2f-ffc5d082e11e" "Google Books" %}}\]
+Rostow, Walt W. *The Stages of Economic Growth*. 3rd ed. Cambridge, UK: Cambridge University Press, 1991. ISBN: 9780521400701. \[Preview in [Google Books](http://books.google.com/books?id=XzJdpd8DbYEC&printsec=frontcover&source=gbs_atb#v=onepage&q&f=false)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -299,7 +299,7 @@ India's experience
 
 Parthasarathi, Prasannan. "Trade and Industry in the Indian Subcontinent, 1750-1913." \[Horn\], pp. 271-290.
 
-{{% resource_link "c6670d77-ed06-46ff-bdec-12fde47cdcd2" "![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)" %}} Pacey, Arnold. *Technology in World Civilization: A Thousand-Year History*. Cambridge, MA: The MIT Press, 1991, pp. 108-130. ISBN: 9780262660723. (especially pp. 117-130)
+[![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)](https://mitpress.mit.edu/9780262660723) Pacey, Arnold. *Technology in World Civilization: A Thousand-Year History*. Cambridge, MA: The MIT Press, 1991, pp. 108-130. ISBN: 9780262660723. (especially pp. 117-130)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
